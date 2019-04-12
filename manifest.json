@@ -1,0 +1,10 @@
+{
+	"name": "GESTOR DE TAREFAS",
+	"version": "1.0",
+	"description": "GESTOR DE TAREFAS OFFLINE",
+	"browser_action": {
+		"default_popup": "index.html",
+		"default_icon": "icon.png"
+	},
+	"manifest_version": 2
+}
